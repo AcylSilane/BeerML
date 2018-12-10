@@ -8,4 +8,6 @@ Written for a statistics course I took in Fall of 2018. In this repo, you can fi
 * Bagged Trees / Random Forests (R, initial.r)
 * 2-layer Neural Network (Python, NeuralNet.py)
 
+I've also included some jupyter notebook files for each sourcefile, since they carry the expected output of these methods.
+
 Overall, we're approximating some known relations which can be found [here](http://www.brewunited.com/abv_calculator.php). In particular, our OLS produces an equation that is remarkably similar to the commonly-used formula of (Original_Gravity - Final_Gravity) * 131.25.
